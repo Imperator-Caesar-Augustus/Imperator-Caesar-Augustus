@@ -1,5 +1,7 @@
 <h2 align="left">Imperator dicit:</h2>
 
+![](https://github-readme-stats.vercel.app/api?username=asd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ###
 
 <div align="left">
